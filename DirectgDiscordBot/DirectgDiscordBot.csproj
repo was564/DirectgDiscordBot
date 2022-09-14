@@ -7,4 +7,37 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Discord.Net" Version="3.8.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="obj\Debug\net6.0\apphost.exe" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.assets.cache" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.csproj.AssemblyReference.cache" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.csproj.CopyComplete" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.dll" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.GeneratedMSBuildEditorConfig.editorconfig" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net6.0\DirectgDiscordBot.pdb" />
+      <Content Include="obj\Debug\net6.0\refint\DirectgDiscordBot.dll" />
+      <Content Include="obj\Debug\net6.0\ref\DirectgDiscordBot.dll" />
+      <Content Include="obj\DirectgDiscordBot.csproj.nuget.dgspec.json" />
+      <Content Include="obj\DirectgDiscordBot.csproj.nuget.g.props" />
+      <Content Include="obj\DirectgDiscordBot.csproj.nuget.g.targets" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+      <Content Include="obj\rider.project.restore.info" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+      <Compile Include="obj\Debug\net6.0\DirectgDiscordBot.AssemblyInfo.cs" />
+      <Compile Include="obj\Debug\net6.0\DirectgDiscordBot.GlobalUsings.g.cs" />
+    </ItemGroup>
+
 </Project>
