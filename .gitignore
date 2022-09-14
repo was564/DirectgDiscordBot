@@ -1,0 +1,6 @@
+﻿# ignore config
+/config.json
+
+#ignore compiled file
+/DirectgDiscordBot/bin
+/DirectgDiscordBot/obj
